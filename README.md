@@ -33,13 +33,13 @@ A powerful OSINT Telegram bot that lets you search through a massive database of
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/BreachHunter-Bot.git
+   git clone https://github.com/stymrj/CyberGhost.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd BreachHunter-Bot
+   cd CyberGhost
    ```
 
 3. **Install the required packages:**
@@ -91,5 +91,5 @@ This bot is intended for **educational and research purposes only**. Misuse of t
 
 ---
 
-Made with ❤️ by Joel V Jose
+Made with ❤️ by Satyam Raj
 
